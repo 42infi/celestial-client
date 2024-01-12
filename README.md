@@ -2,8 +2,9 @@
 
 Lightweight client delivering unparalleled performance - optimised and finetuned to operate at the celestial speed of light.
 Features and input lag perfected with German engineering. The only true competitor amongst them all.
+Resource swapper and userscripts work the same as in BKC, so no inconvenience is caused by the need to adapt. The folder can be found in `Documents/celestial`.
 
-*Exclusively compatible with Windows due to technical reasons*
+*Exclusively compatible with Windows due to technical reasons. Everything is highly experimental, there may be some major instabilities or bugs.*
 
 ## Client Comparison
 |                  |Official|BKC|NLC|Celestial|
@@ -44,7 +45,9 @@ Newer electron versions running at unlimited fps cause players to freeze when sh
 |ADS FOV Enabled|Enables Custom ADS FOV|
 |ADS FOV|Custom ADS FOV - set to your ingame FOV for 0 ADS|
 |CSS Link|Insert CSS Link here|
-|Mouse Update Rate|Raw Input Mouse Input Update Rate|
+|Mouse Update Rate*|Raw Input Mouse Input Update Rate|
+
+__*Mouse Update Rate__ Depending on your hardware, high values may have a negative impact on your fps
 
 __*Absolute Health Highlighter__ fades between the following colors
 
