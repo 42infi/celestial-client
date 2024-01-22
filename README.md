@@ -1,10 +1,16 @@
 # Celestial Client
 
+| ❗ If you experience unusual mouse behavior like you cant look around or shoot - try to disable raw input in your kirka settings and restart the client, as this may interfere with our client technology |
+|-----------------------------------------|
+
 Lightweight client delivering unparalleled performance - optimised and finetuned to operate at the celestial speed of light.
 Features and input lag perfected with German engineering. The only true competitor amongst them all.
 Resource swapper and userscripts work the same as in BKC, so no inconvenience is caused by the need to adapt. The folder can be found in `Documents/celestial`.
 
 *Exclusively compatible with Windows due to technical reasons. Everything is highly experimental, there may be some major instabilities or bugs.*
+
+|[Feel free to donate here to support our team ❤️](https://www.paypal.com/paypalme/betterkirkaclient)|
+|-----------------------------------------|
 
 ## Client Comparison
 |                  |Official|BKC|NLC|Celestial|
